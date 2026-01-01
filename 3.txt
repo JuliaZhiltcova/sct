@@ -1,2 +1,3 @@
 Some text
 Add new line
+3
